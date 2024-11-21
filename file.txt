@@ -1,4 +1,7 @@
 12544
 add new line
 nu epta
+<<<<<<< HEAD
 ybrat
+=======
+>>>>>>> edfd3aab81a608734768a5da01966bdc0789d0f9
