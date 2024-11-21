@@ -3,3 +3,4 @@ add new line
 nu epta
 ybrat
 nnn
+в мейн ветку
